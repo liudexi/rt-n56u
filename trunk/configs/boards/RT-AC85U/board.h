@@ -2,7 +2,7 @@
 
 #define BOARD_PID	"RT-AC85U"
 #define BOARD_NAME	"RT-AC85U"
-#define BOARD_DESC	"ASUS RT-AC85P Wireless Router"
+#define BOARD_DESC	"ASUS RT-AC85U Wireless Router"
 #define BOARD_VENDOR_NAME	"ASUSTek Computer Inc."
 #define BOARD_VENDOR_URL	"https://www.asus.com.cn/"
 #define BOARD_MODEL_URL	"https://www.asus.com.cn/Networking-IoT-Servers/WiFi-Routers/ASUS-WiFi-Routers/RT-AC85P/"
